@@ -16,12 +16,10 @@ Open the live app here:
 ## 🧩 Project structure
 
 DashBi/
+
 ├─ app.py 
-
 ├─ requirements.txt 
-
 ├─ datasets/ 
-
 └─ .gitignore
 
 
