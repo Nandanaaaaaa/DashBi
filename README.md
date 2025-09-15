@@ -16,9 +16,12 @@ Open the live app here:
 ## 🧩 Project structure
 
 DashBi/
-├─ app.py # main Streamlit app
-├─ requirements.txt # python dependencies
-├─ datasets/ # sample CSV datasets used by the dashboard
+├─ app.py 
+# main Streamlit app
+├─ requirements.txt 
+# python dependencies
+├─ datasets/ 
+# sample CSV datasets used by the dashboard
 └─ .gitignore
 
 
