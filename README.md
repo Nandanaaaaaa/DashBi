@@ -17,11 +17,11 @@ Open the live app here:
 
 DashBi/
 ├─ app.py 
-# main Streamlit app
+
 ├─ requirements.txt 
-# python dependencies
+
 ├─ datasets/ 
-# sample CSV datasets used by the dashboard
+
 └─ .gitignore
 
 
